@@ -1,0 +1,1 @@
+for usb.c use -ludev for compiling
